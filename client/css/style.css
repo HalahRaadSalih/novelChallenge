@@ -1,0 +1,27 @@
+.navBackground{
+  border: 0px;
+  background: #3A584F;
+}
+
+.backgroundImage{
+  height: 500px;
+  background: url('https://images.unsplash.com/photo-1431608660976-4fe5bcc2112c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2a8f846cd9079442b41ce191c69fa655');
+  background-size: cover;
+
+}
+body{
+  background: #E7EBE4;
+}
+
+.icons{
+  color: #A61F38;
+}
+
+
+.footer {
+  color: white;
+   height: 50px;
+}
+.footer > div> div>p{
+	margin-top: 15px;
+}
