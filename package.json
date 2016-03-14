@@ -1,0 +1,30 @@
+{
+  "name": "novelChallenge",
+  "version": "1.0.0",
+  "description": "Ever wanted to create your own reading challenge and lost track of them? How about getting points for accomplishing your goals ? Do you want to know what the  New york times thinks of the books you’re searching?  If yes, then this is the app for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalahRaadSalih/novelChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalahRaadSalih/novelChallenge/issues"
+  },
+  "homepage": "https://github.com/HalahRaadSalih/novelChallenge#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "body-parser": "^1.15.0",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "knex": "^0.10.0",
+    "path": "^0.12.7",
+    "pg": "^4.5.1",
+    "request": "^2.69.0"
+  }
+}
