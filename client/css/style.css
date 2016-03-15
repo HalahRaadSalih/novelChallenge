@@ -9,6 +9,21 @@
   background-size: cover;
 
 }
+
+.slogan{
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  height: 100%;
+}
+.slogan > div >div>  h1{
+  margin-top: 20%;
+}
+.btnBackground{
+  background: #A61F38;
+  font-size: 30px;
+  width: 30%;
+
+}
 body{
   background: #E7EBE4;
 }
